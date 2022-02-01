@@ -14,7 +14,7 @@ public class Principale {
 	}catch(IOException e) {
 		System.out.println("Errore");
 		return;
-	}
+	}  //Ciaoooooooooooooooooooooooooooooooooooooo
 	datiCerchio cerchio1 = new datiCerchio(l1,l2,l3); 
 	System.out.println("La circonferenza vale: " + cerchio1.Ccirconferenza(l1));
 	System.out.println("L'area vale: " + cerchio1.Carea(l1));
